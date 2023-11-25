@@ -851,6 +851,9 @@
     "/bilibili/partion/ranking/:tid/:days?/:disableEmbed?": [
         "lengthmin"
     ],
+    "/bilibili/platform/:area?/:p_type?/:uid?": [
+        "nightmare-mio"
+    ],
     "/bilibili/popular/all": [
         "ziminliu"
     ],
@@ -2737,6 +2740,9 @@
     ],
     "/google/album/:id": [
         "hoilc"
+    ],
+    "/google/alerts/:keyword": [
+        "TonyRL"
     ],
     "/google/citations/:id": [
         "KellyHwong"
@@ -5672,6 +5678,12 @@
     "/putonghua": [],
     "/putty/changes": [
         "nczitzk"
+    ],
+    "/qbitai/category/:category": [
+        "FuryMartin"
+    ],
+    "/qbitai/tag/:tag": [
+        "FuryMartin"
     ],
     "/qbittorrent/news": [
         "TonyRL"

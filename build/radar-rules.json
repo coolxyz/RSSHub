@@ -3642,6 +3642,14 @@
         ],
         "target": "/bilibili/live/room/:roomID"
       }
+    ],
+    "show": [
+      {
+        "title": "会员购票务",
+        "docs": "https://docs.rsshub.app/routes/social-media#bilibili-hui-yuan-gou-zuo-pin",
+        "source": "/platform",
+        "target": "/bilibili/platform/:area?/:p_type?/:uid?"
+      }
     ]
   },
   "biodiscover.com": {
@@ -21870,6 +21878,27 @@
           "/"
         ],
         "target": "/putty/changes"
+      }
+    ]
+  },
+  "qbitai.com": {
+    "_name": "量子位",
+    ".": [
+      {
+        "title": "分类",
+        "docs": "https://docs.rsshub.app/routes/new-media#liang-zi-wei",
+        "source": [
+          "/category/:category"
+        ],
+        "target": "/qbitai/category/:category"
+      },
+      {
+        "title": "标签",
+        "docs": "https://docs.rsshub.app/routes/new-media#liang-zi-wei",
+        "source": [
+          "/tag/:tag"
+        ],
+        "target": "/qbitai/tag/:tag"
       }
     ]
   },
