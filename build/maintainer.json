@@ -2957,6 +2957,9 @@
     "/gov/moj/aac/news/:type?": [
         "TonyRL"
     ],
+    "/gov/mot/:category?": [
+        "nczitzk"
+    ],
     "/gov/ndrc/xwdt/:caty?": [],
     "/gov/news/:uid": [
         "EsuRt"
@@ -7138,6 +7141,9 @@
     "/umass/amherst/ipoevents": [],
     "/umass/amherst/ipostories": [],
     "/un/scveto": [],
+    "/uniqlo/new/:country/:category": [
+        "DIYgod"
+    ],
     "/uniqlo/stylingbook/:category?": [],
     "/unit-image/films/:type?": [],
     "/unusualwhales/news": [
