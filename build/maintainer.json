@@ -976,6 +976,9 @@
     "/bsky/keyword/:keyword": [
         "untitaker"
     ],
+    "/bsky/profile/:handle": [
+        "TonyRL"
+    ],
     "/btzj/:category?": [
         "nczitzk"
     ],
@@ -2771,6 +2774,9 @@
     "/gov/moj/aac/news/:type?": [
         "TonyRL"
     ],
+    "/gov/moj/lfyjzj": [
+        "la3rence"
+    ],
     "/gov/mot/:category?": [
         "nczitzk"
     ],
@@ -3798,11 +3804,20 @@
         "HenryQW",
         "JimenezLi"
     ],
-    "/jiemian": [
+    "/jiemian/account/main/:id": [
         "nczitzk"
     ],
-    "/jiemian/list/:id?": [
+    "/jiemian/lists/:id": [
         "WenhuWee",
+        "nczitzk"
+    ],
+    "/jiemian/pro/lists/:id": [
+        "nczitzk"
+    ],
+    "/jiemian/special/lists/:id": [
+        "nczitzk"
+    ],
+    "/jiemian/video/lists/:id": [
         "nczitzk"
     ],
     "/jike/topic/:id/:showUid?": [
@@ -5037,6 +5052,9 @@
         "nczitzk"
     ],
     "/panewslab/topic/:id": [
+        "nczitzk"
+    ],
+    "/papers/:category?": [
         "nczitzk"
     ],
     "/paradigm/writing": [
